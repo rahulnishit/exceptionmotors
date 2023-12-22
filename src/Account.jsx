@@ -5,7 +5,7 @@ const Account = (props) => {
   return (
     <>
       <div className="my-5">
-        <h1 className="text-center">Start Your Jorney With Anyone!!!</h1>
+        <h1 className="text-center">The moto experts are here!!!</h1>
         <div className="container-fluid mb-5">
           <div className="row">
             <div className="col-10 mx-auto">

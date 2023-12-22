@@ -7,7 +7,7 @@ const Service = (props) => {
     <>
       <div className="my-5">
         <h1 className="text-center">Our services</h1>
-        <h2 className="text-center">Get Investment Ideas From Our Experts</h2>
+        <h2 className="text-center">Get Suggestions From Our Experts</h2>
         <div className="container-fluid mb-5">
           <div className="row">
             <div className="col-10 mx-auto">

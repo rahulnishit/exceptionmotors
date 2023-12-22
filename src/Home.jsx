@@ -6,11 +6,11 @@ const Home = (props) => {
   return (
     <>
       <Common
-        name="Earn Your profits with"
+        name="Get Experts Advice with"
         visit="/account"
         imgsrc={personal}
         btname="Get Started "
-        info="We are here to HELP YOU to earn your PROFITS!!!"
+        info="We are here to select the best motorbike for you!!!"
       />
     </>
   );

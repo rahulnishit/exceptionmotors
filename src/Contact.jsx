@@ -18,7 +18,7 @@ const Contact = () => {
   const formSubmit = (e) => {
     e.preventDefault();
     alert(
-      `My name is ${data.fname}. My mobile number is ${data.phone}. My EmailId is ${data.email}. Here is what i want to say ${data.message}.To Proceed Click "OK" `
+      `My name is ${data.fname}. My mobile number is ${data.phone}. My EmailId is ${data.email}. Here is what i want to ask ${data.message}.To Proceed Click "OK" `
     );
   };
   return (

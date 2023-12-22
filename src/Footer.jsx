@@ -3,7 +3,7 @@ const Footer = () => {
   return (
     <>
       <footer className=" w-100 bg-light text-center">
-        <p>©NacWeb2020. All Rights Reserved | Terms And Conditions Apply</p>
+        <p>©ExceptionMotors2021. All Rights Reserved | Terms And Conditions Apply</p>
       </footer>
     </>
   );

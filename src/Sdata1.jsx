@@ -1,26 +1,31 @@
-import upstox from "../src/Web/upstox.jpg";
-import zerodha from "../src/Web/zerodha.png";
-import alice from "../src/Web/aliceblue.png";
+import suzuki from "../src/Web/suzuki.jpg";
+import bajaj from "../src/Web/bajaj.png";
+import royalenfield from "../src/Web/royalenfieldblue.png";
+import yamaha from "../src/Web/yamaha.png";
 
 const Sdata1 = [
   {
-    name: "UpStox",
-    link: "https://upstox.com/open-demat-account",
-    imgsrc: upstox,
+    name: "Suzuki",
+    link: "https://booknow.suzukimotorcycle.co.in/vr-showroom",
+    imgsrc: suzuki,
+    btn: "Book Now",
+  },
+  {
+    name: "Royal Enfield",
+    link: "https://www.royalenfield.com/in/en/motorcycles/",
+    imgsrc: royalenfield,
     btn: "SignUp/Login",
   },
   {
-    name: "Zerodha",
-
-    link: "https://zerodha.com/open-account",
-    imgsrc: zerodha,
+    name: "Yamaha",
+    link: "https://www.yamaha-motor-india.com/yamaha-bikes.html",
+    imgsrc: royalenfield,
     btn: "SignUp/Login",
   },
-  {
-    name: "Alice Blue",
-    link:
-      "https://www.aliceblueonline.com/open-account-fill-kyc-request-call-back/",
-    imgsrc: alice,
+    {
+    name: "Bajaj",
+    link: "https://www.bajajauto.com/bikes",
+    imgsrc: bajaj,
     btn: "SignUp/Login",
   },
 ];

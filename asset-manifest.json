@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/exceptionmotors/static/css/main.7ebac9de.chunk.css",
-    "main.js": "/exceptionmotors/static/js/main.1f175c51.chunk.js",
-    "main.js.map": "/exceptionmotors/static/js/main.1f175c51.chunk.js.map",
+    "main.css": "/exceptionmotors/static/css/main.bd4c6d77.chunk.css",
+    "main.js": "/exceptionmotors/static/js/main.3d62057f.chunk.js",
+    "main.js.map": "/exceptionmotors/static/js/main.3d62057f.chunk.js.map",
     "runtime-main.js": "/exceptionmotors/static/js/runtime-main.99675a11.js",
     "runtime-main.js.map": "/exceptionmotors/static/js/runtime-main.99675a11.js.map",
     "static/css/2.cc82f8aa.chunk.css": "/exceptionmotors/static/css/2.cc82f8aa.chunk.css",
-    "static/js/2.1c271505.chunk.js": "/exceptionmotors/static/js/2.1c271505.chunk.js",
-    "static/js/2.1c271505.chunk.js.map": "/exceptionmotors/static/js/2.1c271505.chunk.js.map",
+    "static/js/2.49d8cffa.chunk.js": "/exceptionmotors/static/js/2.49d8cffa.chunk.js",
+    "static/js/2.49d8cffa.chunk.js.map": "/exceptionmotors/static/js/2.49d8cffa.chunk.js.map",
     "index.html": "/exceptionmotors/index.html",
-    "precache-manifest.d1b149ab28f8bfd0df78880aea9a4aba.js": "/exceptionmotors/precache-manifest.d1b149ab28f8bfd0df78880aea9a4aba.js",
+    "precache-manifest.ce929ee3df24141e55dca1fe722a4a3b.js": "/exceptionmotors/precache-manifest.ce929ee3df24141e55dca1fe722a4a3b.js",
     "service-worker.js": "/exceptionmotors/service-worker.js",
     "static/css/2.cc82f8aa.chunk.css.map": "/exceptionmotors/static/css/2.cc82f8aa.chunk.css.map",
-    "static/css/main.7ebac9de.chunk.css.map": "/exceptionmotors/static/css/main.7ebac9de.chunk.css.map",
-    "static/js/2.1c271505.chunk.js.LICENSE.txt": "/exceptionmotors/static/js/2.1c271505.chunk.js.LICENSE.txt",
+    "static/css/main.bd4c6d77.chunk.css.map": "/exceptionmotors/static/css/main.bd4c6d77.chunk.css.map",
+    "static/js/2.49d8cffa.chunk.js.LICENSE.txt": "/exceptionmotors/static/js/2.49d8cffa.chunk.js.LICENSE.txt",
+    "static/media/benelli.png": "/exceptionmotors/static/media/benelli.f7a5f0c0.png",
     "static/media/datasvg.png": "/exceptionmotors/static/media/datasvg.376448a5.png",
     "static/media/exception-motors.png": "/exceptionmotors/static/media/exception-motors.c6c1a91a.png",
+    "static/media/kawasaki.png": "/exceptionmotors/static/media/kawasaki.b5b62eee.png",
+    "static/media/ktm.png": "/exceptionmotors/static/media/ktm.18487816.png",
     "static/media/one.jpg.jpeg": "/exceptionmotors/static/media/one.jpg.3ee5067f.jpeg",
     "static/media/royalenfield.png": "/exceptionmotors/static/media/royalenfield.aaceadbf.png",
+    "static/media/suzuki.png": "/exceptionmotors/static/media/suzuki.cf11da11.png",
     "static/media/three.jpg.jpeg": "/exceptionmotors/static/media/three.jpg.5070fd04.jpeg",
     "static/media/two.jpg.jpeg": "/exceptionmotors/static/media/two.jpg.35a8da49.jpeg",
     "static/media/yamaha.png": "/exceptionmotors/static/media/yamaha.25972740.png"
@@ -25,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.99675a11.js",
     "static/css/2.cc82f8aa.chunk.css",
-    "static/js/2.1c271505.chunk.js",
-    "static/css/main.7ebac9de.chunk.css",
-    "static/js/main.1f175c51.chunk.js"
+    "static/js/2.49d8cffa.chunk.js",
+    "static/css/main.bd4c6d77.chunk.css",
+    "static/js/main.3d62057f.chunk.js"
   ]
 }

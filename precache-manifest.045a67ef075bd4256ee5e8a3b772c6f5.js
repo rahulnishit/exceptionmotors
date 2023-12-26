@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "166fd4a52d10fa6cd908eaa872a35891",
+    "revision": "3cab06b28b5e380a7f90afa0b1fdad98",
     "url": "/exceptionmotors/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/css/2.cc82f8aa.chunk.css"
   },
   {
-    "revision": "0d2edc3db102cb135841",
-    "url": "/exceptionmotors/static/css/main.b720c858.chunk.css"
+    "revision": "5d3a95bfeca8a9a4e137",
+    "url": "/exceptionmotors/static/css/main.035be569.chunk.css"
   },
   {
     "revision": "6f60870e5b5ecbffa1cf",
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/js/2.49d8cffa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d2edc3db102cb135841",
-    "url": "/exceptionmotors/static/js/main.e2d276b8.chunk.js"
+    "revision": "5d3a95bfeca8a9a4e137",
+    "url": "/exceptionmotors/static/js/main.ff0d7549.chunk.js"
   },
   {
     "revision": "6006272d7c8a49f4a740",
     "url": "/exceptionmotors/static/js/runtime-main.99675a11.js"
   },
   {
-    "revision": "f7a5f0c0d5d8c7e275812cc3c639856d",
-    "url": "/exceptionmotors/static/media/benelli.f7a5f0c0.png"
+    "revision": "f5324d5052ed5894a182ac42c69276f4",
+    "url": "/exceptionmotors/static/media/benelli.f5324d50.png"
   },
   {
     "revision": "376448a561a7dd9a5bb910da7ae7ce66",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/media/kawasaki.b5b62eee.png"
   },
   {
-    "revision": "184878161a2f23e5da0950a30e4a5034",
-    "url": "/exceptionmotors/static/media/ktm.18487816.png"
+    "revision": "c172eb462bcbf11460f94263171d3076",
+    "url": "/exceptionmotors/static/media/ktm.c172eb46.png"
   },
   {
     "revision": "3ee5067fdaa3b8d7d39d629fbc1b12a8",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/media/royalenfield.aaceadbf.png"
   },
   {
-    "revision": "cf11da11cb1281719e201a9203ed9821",
-    "url": "/exceptionmotors/static/media/suzuki.cf11da11.png"
+    "revision": "1d727ce430dc626715f17e712e4537da",
+    "url": "/exceptionmotors/static/media/suzuki.1d727ce4.png"
   },
   {
     "revision": "5070fd04f44ecab9747ed270af5949cd",

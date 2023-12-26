@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4fc9135d9a78ceca8cb9582bc402787",
+    "revision": "622e52b537a0455c3d264fd37e4b7e35",
     "url": "/exceptionmotors/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/css/2.cc82f8aa.chunk.css"
   },
   {
-    "revision": "fd46b967fb502048f878",
+    "revision": "fc22dad3de367e480f15",
     "url": "/exceptionmotors/static/css/main.1239545c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/js/2.1c271505.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd46b967fb502048f878",
-    "url": "/exceptionmotors/static/js/main.8040c443.chunk.js"
+    "revision": "fc22dad3de367e480f15",
+    "url": "/exceptionmotors/static/js/main.5c9054a7.chunk.js"
   },
   {
     "revision": "6006272d7c8a49f4a740",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/media/one.jpg.3ee5067f.jpeg"
   },
   {
-    "revision": "0e693f68feea0c901f30a11fb6fb8b13",
-    "url": "/exceptionmotors/static/media/royalenfield.0e693f68.png"
+    "revision": "aaceadbf8634ea657f2739e4cf577260",
+    "url": "/exceptionmotors/static/media/royalenfield.aaceadbf.png"
   },
   {
     "revision": "5070fd04f44ecab9747ed270af5949cd",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "35a8da4984d47675c8ddda85b6c20613",
     "url": "/exceptionmotors/static/media/two.jpg.35a8da49.jpeg"
+  },
+  {
+    "revision": "2597274036a2a82880bcc1405d88eed5",
+    "url": "/exceptionmotors/static/media/yamaha.25972740.png"
   }
 ]);

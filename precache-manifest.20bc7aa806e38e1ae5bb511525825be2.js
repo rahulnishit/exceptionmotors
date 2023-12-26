@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cd538388834827fcfa2764a20d4b567",
+    "revision": "68a21d141b9ea946753fd7e56b593ade",
     "url": "/exceptionmotors/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/css/2.cc82f8aa.chunk.css"
   },
   {
-    "revision": "bd401d1fe3edde81c61c",
-    "url": "/exceptionmotors/static/css/main.8cf221fe.chunk.css"
+    "revision": "440eea1c796a89c4bf42",
+    "url": "/exceptionmotors/static/css/main.b209f98c.chunk.css"
   },
   {
     "revision": "6f60870e5b5ecbffa1cf",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exceptionmotors/static/js/2.49d8cffa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd401d1fe3edde81c61c",
+    "revision": "440eea1c796a89c4bf42",
     "url": "/exceptionmotors/static/js/main.266d9df9.chunk.js"
   },
   {
